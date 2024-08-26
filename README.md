@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Henry and I'm a Student from Fiap School</h2>
+<h2 align="left">Hi 🦐! My name is Henry and I'm a Student from Fiap School</h2>
 
 ###
 
@@ -9,8 +9,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2H6A_X4IS19VB-VJw2zq4khCSVmpPabkYQ&s"  />
 
 ###
 
