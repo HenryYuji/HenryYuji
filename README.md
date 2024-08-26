@@ -22,10 +22,6 @@
 
 ###
 
-<img align="right" height="150" src="https://admin.itsnicethat.com/images/CnxhM5CAWmgG5pk8qCR-_4yHFGc=/27190/format-webp%7Cwidth-1440/57ac39437fa44ccc87006b6d.jpg"  />
-
-###
-
 <div align="center">
   <a href="https://www.youtube.com/channel/UCf_N8agPn2zKL-PskFrfPow " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -37,9 +33,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/HenryYuji/HenryYuji/output/snake.svg" alt="Snake animation" />
 
 ###
