@@ -41,8 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-  <img height="250" width="500" src="https://art.pixilart.com/16c3630a9147a08.gif"  />
-
-###
