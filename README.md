@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2H6A_X4IS19VB-VJw2zq4khCSVmpPabkYQ&s"  />
 
 ###
@@ -36,6 +38,14 @@
   <a href="https://www.twitch.tv/henrytk_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" width="500" src="https://art.pixilart.com/16c3630a9147a08.gif"  />
 </div>
 
 ###
