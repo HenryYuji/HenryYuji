@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🦐! My name is Henry and I'm a Student from Fiap School</h2>
+<h2 align="left">Hi 🙈! My name is Henry and I'm a Student from Fiap School</h2>
 
 ###
 
@@ -8,11 +8,7 @@
 
 ###
 
-<br clear="both">
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -26,7 +22,11 @@
 
 ###
 
-<div align="left">
+<img align="right" height="150" src="https://admin.itsnicethat.com/images/CnxhM5CAWmgG5pk8qCR-_4yHFGc=/27190/format-webp%7Cwidth-1440/57ac39437fa44ccc87006b6d.jpg"  />
+
+###
+
+<div align="center">
   <a href="https://www.youtube.com/channel/UCf_N8agPn2zKL-PskFrfPow " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -37,5 +37,9 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/HenryYuji/HenryYuji/output/snake.svg" alt="Snake animation" />
 
 ###
